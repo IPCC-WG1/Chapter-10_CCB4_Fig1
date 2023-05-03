@@ -1,5 +1,6 @@
 HISTORICAL SURFACE AIR TEMPERATURE TREND OVER THE HINDU KUSH HIMALAYA REGION
 ============================================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787587.svg)](https://doi.org/10.5281/zenodo.6787587)
 
 Figure number: Cross-Chapter Box 10.4 Figure 1
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 10
